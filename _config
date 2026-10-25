@@ -1,0 +1,15 @@
+# aslean_config.yml
+# github.com/shenjuexiao
+# 20261025
+
+# _config.yml
+title: ASLEAN · 精益方式
+description: 以精益思想为核心，探索并分享精益相关的思维方式与实践方法。
+
+# 包含的文件（Jekyll 默认会忽略以下划线开头的文件，
+# 但这里列出的文件需要被处理）
+include:
+  - README.md
+  
+# 排除的文件和目录（不参与 Jekyll 构建）
+exclude:
