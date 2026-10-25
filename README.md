@@ -44,8 +44,8 @@ ASLEAN（精益方式）是一个专注于**精益思想**与**精益思维**的
 
 ## 🌐 链接
 
-- 官网：[aslean.com](https://aslean.com)
-- GitHub 组织：[github.com/aslean](https://github.com/aslean)
+- 🏠 官网：[aslean.com](https://aslean.com)
+- 🐙 GitHub 组织：[github.com/aslean](https://github.com/aslean)
 
 **ASLEAN · 精益方式** —— 少即是多，持续改善。
 
